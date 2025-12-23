@@ -1,0 +1,24 @@
+{
+  "name": "golo-consultancy-website",
+  "version": "1.0.0",
+  "description": "Golo Consultancy - Premium Business Advisory & Marketing Solutions",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'No build required for static site'",
+    "preview": "npx serve ."
+  },
+  "keywords": [
+    "consultancy",
+    "business-advisory",
+    "marketing",
+    "UAE",
+    "Dubai",
+    "strategy"
+  ],
+  "author": "Golo Consultancy",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
